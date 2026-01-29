@@ -1,7 +1,6 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-jupyter
-seaborn
-plotly
+numpy==2.4.1
+pandas==2.3.3
+scikit-learn==1.8.0
+seaborn==0.13.2
+ipython==9.9.0
+ipykernel==7.1.0
